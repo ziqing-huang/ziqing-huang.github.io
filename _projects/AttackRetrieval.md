@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Adversarial Attacks on Dense Retrieval
+title: Corpus Poisoning Attacks for Dense Retrievers
 # pdf: /assets/pdf/.pdf
-description: Collabrating with Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>, <a href="https://www.cs.princeton.edu/~zzhong/">Zexuan Zhong</a>, and <a href="https://www.cs.princeton.edu/~awettig/"> Alexander Wettig</a>. Aiming for ACL 2023.
+description: Collabrating with Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>, <a href="https://www.cs.princeton.edu/~zzhong/">Zexuan Zhong</a>, and <a href="https://www.cs.princeton.edu/~awettig/"> Alexander Wettig</a>. Submitted to ACL 2023.
 importance: 1
 category: research
 ---
