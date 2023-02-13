@@ -23,7 +23,7 @@
   contents:
     - title: <a href="https://github.com/THUDM">THUDM</a>
       institution: Tsinghua University
-      year: 2022
+      year: 2022 - Present
       description:
         - Advised by Prof. <a href="https://kimiyoung.github.io/">Zhilin Yang</a>.
         - We used Large Language Models to <b>generate web pages from natural language</b>, using different levels of inputs, such as the content on the page and the description of the style.
@@ -33,7 +33,8 @@
       description:
         - Advised by Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>.
         - We widely explored the <b>generalization ability</b> of BM25 and dense models.
-        - We defined <b>the attacks on retrieval tasks</b> from several different perspectives and applied <b>adversarial word augmentations</b> to show that even the state-of-the-art models are not robust under adversarial attacks.
+        - We proposed <b>corpus poisoning attacks</b> and demonstrated that our method can successfully attack state-of-the-art dense retrievers with a small number of adversarial passages.
+        - Submitted to ACL 2023.
     - title: <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>
       institution: Tsinghua University
       year: 2021
@@ -41,6 +42,13 @@
         - Advised by Prof. <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/index.html">Zhiyuan Liu</a> (Tsinghua University) and Prof. <a href="http://www.cs.cmu.edu/~cx/">Chenyan Xiong</a> (Microsoft Research)
         - We built a strong baseline on MS MARCO passage retrieval task based on ANCE and OpenMatch.
         - We used a memory bank to include more negative samples in a single batch to improve retrieval performance with affordable batch size.
+
+- title: Publications
+  type: time_table
+  contents:
+    - year: 2023:
+      items:
+        - Corpus Poisoning Attacks for Dense Retrievers
 
 - title: Selected Honors and Awards
   type: time_table
