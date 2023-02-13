@@ -32,3 +32,15 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+    
+"Chen":
+  - firstname: ["Danqi"]
+    url: https://www.cs.princeton.edu/~danqic/
+
+"Zhong":
+  - firstname: ["Zexuan"]
+    url: https://www.cs.princeton.edu/~zzhong/
+
+"Wettig":
+  - firstname: ["Alexander"]
+    url: https://www.cs.princeton.edu/~awettig/
