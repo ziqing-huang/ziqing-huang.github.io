@@ -6,7 +6,7 @@
     - name: Email
       value: <a href='mailto:hzq001227@gmail.com'>hzq001227@gmail.com</a>
     - name: Research Interests
-      value: Natural Language Processing (NLP); Machine Learning (ML)
+      value: Information Retrieval
 
 - title: Education
   type: time_table
@@ -16,38 +16,40 @@
       year: 2019 - Present
       description:
         - <a href="https://iiis.tsinghua.edu.cn/en/yaoclass/">Yao Class</a>, <a href='https://iiis.tsinghua.edu.cn/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>, led by Prof. <a href="https://iiis.tsinghua.edu.cn/yao/">Andrew Yao</a>.
-        - GPA <strong>3.95/4</strong>, Rank <strong>9/94</strong>.
+        - GPA <strong>3.96/4</strong>, Rank <strong>7/94</strong>.
 
 - title: Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/THUDM">THUDM</a>
+    - title: Research Intern
       institution: Tsinghua University
       year: 2022 - Present
       description:
         - Advised by Prof. <a href="https://kimiyoung.github.io/">Zhilin Yang</a>.
-        - We used Large Language Models to <b>generate web pages from natural language</b>, using different levels of inputs, such as the content on the page and the description of the style.
-    - title: <a href="https://princeton-nlp.github.io/">Princeton NLP</a>
+        - Research topic: HTML generation.
+        - We used Large Language Models to generate web pages from natural language, using different levels of inputs, such as the content on the page and the description of the style.
+    - title: Research Intern
       institution: Princeton University (Remote)
       year: 2022
       description:
         - Advised by Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>.
-        - We widely explored the <b>generalization ability</b> of BM25 and dense models.
-        - We proposed <b>corpus poisoning attacks</b> and demonstrated that our method can successfully attack state-of-the-art dense retrievers with a small number of adversarial passages.
-        - Submitted to ACL 2023.
-    - title: <a href="http://nlp.csai.tsinghua.edu.cn">THUNLP</a>
+        - Research topic: information retrieval.
+        - We widely explored the generalization ability of BM25 and dense models.
+        - We proposed corpus poisoning attacks on retrieval. We show that by inserting a limited number of passages into the corpus, we can mislead the retrievers to retrieve them.
+    - title: Research Intern
       institution: Tsinghua University
       year: 2021
       description:
-        - Advised by Prof. <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/index.html">Zhiyuan Liu</a> (Tsinghua University) and Prof. <a href="http://www.cs.cmu.edu/~cx/">Chenyan Xiong</a> (Microsoft Research)
+        - Advised by Prof. <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/index.html">Zhiyuan Liu</a> (Tsinghua University) and Prof. <a href="http://www.cs.cmu.edu/~cx/">Chenyan Xiong</a> (Microsoft Research).
+        - Research topic: information retrieval.
         - We built a strong baseline on MS MARCO passage retrieval task based on ANCE and OpenMatch.
         - We used a memory bank to include more negative samples in a single batch to improve retrieval performance with affordable batch size.
 
-- title: Publications
-  type: time_table
-  contents:
-    - title: Corpus Poisoning Attacks for Dense Retrievers
-      year: 2023
+# - title: Publications
+#   type: time_table
+#   contents:
+#     - title: Corpus Poisoning Attacks for Dense Retrievers
+#       year: 2023
 
 - title: Selected Honors and Awards
   type: time_table
