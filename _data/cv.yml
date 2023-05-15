@@ -26,14 +26,14 @@
       year: 2022 - Present
       description:
         - Advised by Prof. <a href="https://kimiyoung.github.io/">Zhilin Yang</a>.
-        - Research topic: HTML generation.
+        - Research topic： HTML generation.
         - We used Large Language Models to generate web pages from natural language, using different levels of inputs, such as the content on the page and the description of the style.
     - title: Research Intern
       institution: Princeton University (Remote)
       year: 2022
       description:
         - Advised by Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>.
-        - Research topic: information retrieval.
+        - Research topic： information retrieval.
         - We widely explored the generalization ability of BM25 and dense models.
         - We proposed corpus poisoning attacks on retrieval. We show that by inserting a limited number of passages into the corpus, we can mislead the retrievers to retrieve them.
     - title: Research Intern
@@ -41,7 +41,7 @@
       year: 2021
       description:
         - Advised by Prof. <a href="http://nlp.csai.tsinghua.edu.cn/~lzy/index.html">Zhiyuan Liu</a> (Tsinghua University) and Prof. <a href="http://www.cs.cmu.edu/~cx/">Chenyan Xiong</a> (Microsoft Research).
-        - Research topic: information retrieval.
+        - Research topic： information retrieval.
         - We built a strong baseline on MS MARCO passage retrieval task based on ANCE and OpenMatch.
         - We used a memory bank to include more negative samples in a single batch to improve retrieval performance with affordable batch size.
 
