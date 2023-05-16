@@ -20,9 +20,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}" U
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate of [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)) at Tsinghua University.
+I am a senior student of [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)) at Tsinghua University.
 
-I'm interested in the development of information retrieval systems and search engines. 
+I'm interested in the development of information retrieval systems and search engines.
 I am fortunate to be advised by Prof. [Zhilin Yang](https://kimiyoung.github.io/) at Tsinghua University.
 I have been working with Prof. [Danqi Chen](https://www.cs.princeton.edu/~danqic/) from the spring of 2022.
 Before that, I worked in the information retrieval group of [THUNLP](http://nlp.csai.tsinghua.edu.cn) under the guidance of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html) and Prof. [Chenyan Xiong](http://www.cs.cmu.edu/~cx/) in 2021.
