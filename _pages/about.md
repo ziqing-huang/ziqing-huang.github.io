@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}" U
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have graduated from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)) at Tsinghua University.
+I have graduated from [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/) (known as [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)) at Tsinghua University in June 2023.
 
 I'm interested in the development of information retrieval systems and search engines.
 I am fortunate to be advised by Prof. [Zhilin Yang](https://kimiyoung.github.io/) at Tsinghua University.
