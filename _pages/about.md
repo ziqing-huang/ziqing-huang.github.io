@@ -27,4 +27,4 @@ I am fortunate to be advised by Prof. [Zhilin Yang](https://kimiyoung.github.io/
 I have been working with Prof. [Danqi Chen](https://www.cs.princeton.edu/~danqic/) from the spring of 2022.
 Before that, I worked in the information retrieval group of [THUNLP](http://nlp.csai.tsinghua.edu.cn) under the guidance of Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html) and Prof. [Chenyan Xiong](http://www.cs.cmu.edu/~cx/) in 2021.
 
-Email: [hzq00127@gmail.com](mailto:hzq00127@gmail.com)
+Email: [hzq001227@gmail.com](mailto:hzq001227@gmail.com)
